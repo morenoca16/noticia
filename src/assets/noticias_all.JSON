@@ -1,0 +1,90 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Formación",
+                    "value": "formacion"
+                },
+                {
+                    "name": "Cordinación",
+                    "value": "cordinacion"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailNoticias": [
+            {
+                "title": "Politica",
+                "date": " Las bases de datos multidimensionales (MBD) están diseñadas para operar en un entorno de almacenamiento de datos, que es una colección considerable de datos históricos de la empresa que se conservan para su análisis a fin de tomar decisiones comerciales.Los datos se organizan en múltiples dimensiones dentro de una base de datos multidimensional, cada una de las cuales representa un aspecto diferente de los datos, como el tiempo, el lugar o el producto. Esto implica que se utilizan diferentes bases de datos relacionales para crear bases de datos multidimensionales.",
+                "hora": "Hace 1 hora",
+                "show": true,
+                "text_small": "Cuatro episodios por los que la aprobación de Petro cayó 23 puntos en un año.",
+                "text_long": "La más reciente encuesta de Invamer mostró que la imagen del presidente Gustavo Petro se ubica en 33 %, mientras que cuando comenzó su mandato tenía una imagen favorable del 56 %. La oposición no levanta cabeza. ¿Por qué estas cifras?",
+                "url_imag": "https://www.semana.com/resizer/l4qDJDjTgBffLYtAUc1iCLmWEqo=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/JEMRLKWMKZFCXC7TWJMFWZVYT4.jpg",
+                "font_noticia":"Las bases de datos multidimensionales (MBD) están diseñadas para operar en un entorno de almacenamiento de datos, que es una colección considerable de datos históricos de la empresa que se conservan para su análisis a fin de tomar decisiones comerciales.Los datos se organizan en múltiples dimensiones dentro de una base de datos multidimensional, cada una de las cuales representa un aspecto diferente de los datos, como el tiempo, el lugar o el producto. Esto implica que se utilizan diferentes bases de datos relacionales para crear bases de datos multidimensionales"
+            },
+            {
+                "title": "Deporte",
+                "date": "Emiliana Arango, la joven tenista colombiana de 22 años, continúa sorprendiendo en el torneo WTA 1000 de Guadalajara. Con un ranking de N°180 en la clasificación mundial, Arango ha demostrado su valía en su primera participación en un main draw de un WTA 1000. En su más reciente partido, logró una victoria categórica sobre Sloane Stephens, N°38 WTA, con un marcador de 6-1 y 6-2 en tan solo una hora y tres minutos de juego.Stephens, es importante mencionar, es una jugadora de renombre en el mundo del tenis. Ganó el US Open en 2017 y alcanzó el N°3 del mundo en 2018, año en el que también fue finalista de Roland Garros. Sin embargo, en esta ocasión, no pudo contra la determinación y habilidad de Arango.",
+                "hora": "Hace 2 hora",
+                "show": true,
+                "text_small": "Emiliana Arango, la tenista colombiana que sorprende en el WTA 1000",
+                "text_long": "",
+                "url_imag": "https://elcentavo.co/wp-content/uploads/2023/09/Emiliana-Arango-@emiarango-Instagram.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Tecnología",
+                "date": "La espera ha terminado. Tras varios meses de anticipación, la nueva actualización de iOS, iOS 17, ha llegado a los dispositivos de Apple. Aunque algunos usuarios ya han tenido la oportunidad de probar la versión beta, para la mayoría, este día marca un hito importante, ya que finalmente podrán disfrutar de las novedades que trae consigo iOS 17",
+                "hora": "Hace 3 horas",
+                "show": true,
+                "text_small": "Llega iOS 17: Novedades y cómo actualizar tu dispositivo Apple",
+                "text_long": "",
+                "url_imag": "https://elcentavo.co/wp-content/uploads/2023/09/Captura-de-Pantalla-2023-09-19-a-las-1.03.43-p.-m.png",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Deporte-Automovilismo",
+                "date": "El director ejecutivo de McLaren, Zak Brown, ha expresado su confianza en que las lagunas existentes en las normas de limitación de costes de la Fórmula 1 se han cerrado para 2024. Esta afirmación se produce después de que todos los equipos de la parrilla recibieran el visto bueno este año, un hecho que fue anunciado por la FIA tras el Gran Premio de Italia. Los Certificados de Conformidad otorgados a todos los competidores son una constancia de que no han rebasado el límite de costes en 2022.",
+                "hora": "Hace 4 horas",
+                "show": true,
+                "text_small": "Fórmula 1: Cerradas las lagunas en las normas de limitación de costes para 2024",
+                "text_long": "",
+                "url_imag": "https://elcentavo.co/wp-content/uploads/2023/09/Captura-de-Pantalla-2023-09-18-a-las-2.10.16-p.-m.png",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Cultura",
+                "date": "2023-10-05",
+                "hora": "Hace 5 horas",
+                "show": false,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 5",
+                "date": "2023-10-05",
+                "show": false,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            }
+        ]             
+
+    }
+]

@@ -1,0 +1,36 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Iniciar sesión</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="fondo" [fullscreen]="true">
+
+  <ion-grid>
+    <ion-row>
+      <ion-col size="6"> <!-- Tamaño 6 (de 12) significa que toma la mitad del espacio disponible -->
+        <ion-card>
+    <div id="formulario">
+      <form (ngSubmit)="login()">
+        <ion-item>
+          <ion-label position="floating">Usuario:</ion-label>
+          <ion-input type="text" [(ngModel)]="username" name="username" required></ion-input>
+        </ion-item>
+  
+        <ion-item>
+          <ion-label position="floating">Contraseña:</ion-label>
+          <ion-input type="password" [(ngModel)]="password" name="password" required></ion-input>
+        </ion-item>
+  
+        <ion-button type="submit"> Iniciar sesión </ion-button>
+      </form>
+    </div>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  
+</ion-content>
